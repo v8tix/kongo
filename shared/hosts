@@ -1,0 +1,18 @@
+127.0.0.1	localhost
+::1	localhost ip6-localhost ip6-loopback
+fe00::0	ip6-localnet
+ff00::0	ip6-mcastprefix
+ff02::1	ip6-allnodes
+ff02::2	ip6-allrouters
+172.10.10.50     zookeeper.confluentmongo.local
+172.10.10.51     broker.confluentmongo.local
+172.10.10.52     schema-registry.confluentmongo.local
+172.10.10.53     connect.confluentmongo.local
+172.10.10.54     control-center.confluentmongo.local
+172.10.10.55     ksql-server.confluentmongo.local
+172.10.10.56     ksql-cli.confluentmongo.local
+172.10.10.57     rest-proxy.confluentmongo.local
+172.10.10.58     kafka-topics-ui.confluentmongo.local
+172.10.10.59	 mongo1.confluentmongo.local
+172.10.10.60     mongo2.confluentmongo.local
+172.10.10.61     mongo3.confluentmongo.local
