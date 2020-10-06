@@ -9,10 +9,10 @@ ff02::2	ip6-allrouters
 172.10.10.52     schema-registry.confluentmongo.local
 172.10.10.53     connect.confluentmongo.local
 172.10.10.54     control-center.confluentmongo.local
-172.10.10.55     ksql-server.confluentmongo.local
-172.10.10.56     ksql-cli.confluentmongo.local
-172.10.10.57     rest-proxy.confluentmongo.local
-172.10.10.58     kafka-topics-ui.confluentmongo.local
+172.10.10.55     ksqldb-server.confluentmongo.local
+172.10.10.56     ksqldb-cli.confluentmongo.local
+172.10.10.57     ksql-datagen.confluentmongo.local
+172.10.10.58     rest-proxy.confluentmongo.local
 172.10.10.59	 mongo1.confluentmongo.local
 172.10.10.60     mongo2.confluentmongo.local
 172.10.10.61     mongo3.confluentmongo.local
